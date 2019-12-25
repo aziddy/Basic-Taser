@@ -1,6 +1,13 @@
 # Basic-Taser
 Basic Taser
 
+<p align="center" style="vertical-align: top; position: relative" >
+
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/friend-getting-tased.gif?raw=true" width="425"/>  
+
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/6645645645.jpg?raw=true" width="425"/>  
+
+</p>
 
 <br>
 <br>
