@@ -40,3 +40,12 @@ Super Basic!
   <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/circuit.PNG?raw=true" width="400"/>  
   
  </p>
+ 
+ 
+ ## Build
+ 
+ <p align="center" style="vertical-align: top; position: relative" >
+  
+  <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/animation.gif?raw=true" width="600"/>  
+  
+ </p>
