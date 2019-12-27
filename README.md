@@ -14,6 +14,10 @@ Basic Taser
 <br>
 
 ## How A Taser Works
+#### - Transformer
+
+
+#### - Arc
 
 
 <br>
