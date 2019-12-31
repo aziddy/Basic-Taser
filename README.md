@@ -28,6 +28,10 @@ Circuits need to be complete to conduct electricity
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/complete%20circuit.gif?raw=true" width="350"/> 
 </p>
 
+ ### Explanation 
+If the potential difference (Voltage) is high enough between two areas that are separated by a small gap. The electrons can force themselves through the air without a conducting wire. 
+
+This results in an Arc (looks like lighting). Which completes the circuit
 <br>
 <br>
 <br>
