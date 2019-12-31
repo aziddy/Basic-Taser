@@ -14,15 +14,17 @@ Basic Taser
 <br>
 
 ## How A Taser Works
-
+  ### Fundementals
 <p align="center" style="vertical-align: top; position: relative" >
-<div style="margin-bottom: 5px">Current travels from areas of high potential to low potentials</div>
-  <br>
+Current travels from areas of high potential to low potentials
+<br>
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/current.gif?raw=true" width="350"/> 
 </p>
 
 
 <p align="center" style="vertical-align: top; position: relative" >
+Circuits need to be complete to conduct electricity
+<br>
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/complete%20circuit.gif?raw=true" width="350"/> 
 </p>
 
