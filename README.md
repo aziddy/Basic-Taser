@@ -1,4 +1,4 @@
-# Basic-Taser - (WORK IN PROGRESS)
+# Basic-Taser
 Basic Taser
 
 <p align="center" style="vertical-align: top; position: relative" >
@@ -13,7 +13,7 @@ Basic Taser
 <br>
 <br>
 
-## How A Taser Works
+<!-- ## How A Taser Works
   ### Fundementals
 <p align="center" style="vertical-align: top; position: relative" >
 Current travels from areas of high potential to low potentials
@@ -35,7 +35,7 @@ This results in an Arc (looks like lighting). Which completes the circuit
 <br>
 <br>
 <br>
-
+-->
 ## Component List
 
 * 400Kv Step Up Transformer
