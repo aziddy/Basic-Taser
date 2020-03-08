@@ -10,8 +10,7 @@ Basic Taser
 </p>
 
 <br>
-<br>
-<br>
+
 
 <!-- ## How A Taser Works
   ### Fundementals
