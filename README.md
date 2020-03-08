@@ -5,7 +5,7 @@ Basic Taser
 
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/friend-getting-tased.gif?raw=true" width="425"/>  
 
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/82718690_622904381820333_8619334899763861810_n.jpg?raw=true" width="425"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/82718690_622904381820333_8619334899763861810_n.jpg?raw=true" width="319"/>  
 
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/6645645645.jpg?raw=true" width="425"/>  
 
