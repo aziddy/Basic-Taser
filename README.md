@@ -7,9 +7,9 @@ Basic Taser
 
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/82718690_622904381820333_8619334899763861810_n.jpg?raw=true" width="337"/>  
 
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/6645645645.jpg?raw=true" width="280"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/6645645645.jpg?raw=true" width="350"/>  
 
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/IMG_20191213_192113.jpg?raw=true" width="500"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Basic-Taser/blob/master/media/IMG_20191213_192113.jpg?raw=true" width="400"/>  
 
 
 
