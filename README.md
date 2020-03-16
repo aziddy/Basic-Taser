@@ -48,6 +48,7 @@ This results in an Arc (looks like lighting). Which completes the circuit
 * 9v Battery
 * 9V Battery Holder
 * 3D Printed Case
+* Travel Adapter as Taser Prongs
 
 <br>
 
